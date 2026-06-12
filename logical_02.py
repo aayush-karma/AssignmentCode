@@ -1,0 +1,5 @@
+print("program of scholarship eligibility")
+marks=int(input("Enter the marks"))
+attendance=int(input("Enter the  attendance"))
+check=(marks>80 and attendance>75)
+print("The student is eligible", check)

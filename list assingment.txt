@@ -1,0 +1,52 @@
+List Exercise
+
+1.	Access List Item
+2.	Change List Item
+3.	Append Method
+4.	Insert Method
+5.	Remove List Item
+6.	Clear Entire List
+7.	Length of the List
+8.	Sum the List
+9.	Interchange First and Last Element
+10.	Swap Two Elements
+11.	Check if Element Exists in List
+12.	Reverse a List
+13.	Cloning or Copying a List
+14.	Count Element in a List
+15.	Append at Beginning of List
+16.	Sum and Average of List
+17.	Multiply All Numbers in a List
+18.	Smallest Number in a List
+19.	Largest Number in a List
+20.	Second Largest Number in a List
+21.	Even Numbers in a List
+22.	Odd Numbers in a List
+23.	Count Even and Odd Numbers in a List
+24.	Positive Numbers in a List
+25.	Count Positive and Negative Numbers in a List
+26.	Remove Duplicates from List
+27.	Get Unique Values from a List
+28.	Merge Two Lists
+29.	Intersection of Two Lists
+30.	Union of Two or More Lists
+31.	Check if Two Lists are Identical
+32.	Remove None Values from List
+33.	Remove Multiple Elements from a List
+34.	Print Duplicates from a List of Integers
+35.	Max and Min Element's Position in a List
+36.	Move All Zeroes to End
+37.	Remove Duplicates from Sorted Array
+38.	Array Leaders
+39.	Count Distinct Elements
+40.	Union of Arrays with Duplicates
+41.	Remove All Values from a List Present in Another List
+42.	Print All Sublists of a List
+43.	Reverse Array in Groups
+44.	Maximum Product Subarray
+45.	Split Array in Three Equal Sum Subarrays
+46.	Convert List to String
+47.	Reverse All Strings in String List
+48.	Extract Words Starting with Given Character
+49.	Replace Substrings from String List
+50.	Count Strings with Given Substring
