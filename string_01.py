@@ -1,2 +1,2 @@
-x=str(input("Enter the string   :"))
-print(x.upper())
+f=str(input("Enter the string   :"))
+print(f.upper())
